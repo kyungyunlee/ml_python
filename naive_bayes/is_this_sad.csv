@@ -1,0 +1,61 @@
+danceability,tempo,energy,key,valence,loudness,uri,trackname,artist,is_sad
+0.64,92.977,0.648,5,0.548,-8.113,spotify:track:4evmHXcjt3bTUHD1cvny97,Beautiful People (feat. Khalid),Ed Sheeran,0
+0.852,113.039,0.698,9,0.324,-7.206,spotify:track:4wNIkl5XGiAACjFBlDWuSd,What A Man Gotta Do,Jonas Brothers,0
+0.54,112.219,0.793,5,0.399,-4.379,spotify:track:60DwQiwwglVkTkTwDTTEId,Sing It With Me,JP Cooper,0
+0.77,99.991,0.882,8,0.385,-4.792,spotify:track:5PYQUBXc7NYeI1obMKSJK0,Never Really Over,Katy Perry,0
+0.669,109.919,0.801,8,0.541,-5.445,spotify:track:4PkIDTPGedm0enzdvilLNd,Sixteen,Ellie Goulding,0
+0.798,101.956,0.675,6,0.842,-5.041,spotify:track:3HVWdVOQ0ZA45FuZGSfvns,I Don't Care (with Justin Bieber),Ed Sheeran,0
+0.46,102.46,0.8,1,0.553,-3.584,spotify:track:4NSW0Km5ZG60L8FthUebPJ,What I Like About You (feat. Theresa Rex),Jonas Blue,0
+0.732,124.024,0.85,1,0.372,-5.999,spotify:track:2wenGTypSYHXl1sN1pNC7X,Slow Dance (feat. Ava Max) - Sam Feldt Remix,AJ Mitchell,0
+0.485,87.009,0.461,9,0.324,-5.646,spotify:track:2grAr8pWMuLWn8ZYEE9wDV,Never Seen the Rain,Tones And I,0
+0.759,121.049,0.605,7,0.64,-7.737,spotify:track:0mjAU3yKR1QnXnHtjGJqTM,Rescue Me,OneRepublic,0
+0.794,123.941,0.793,11,0.677,-4.521,spotify:track:6WrI0LAC5M1Rw2MnX2ZvEg,Don't Start Now,Dua Lipa,0
+0.784,105.981,0.845,3,0.888,-2.793,spotify:track:4D7ERaKgv8NAeck8RzUtRz,Younger,Jonas Blue,0
+0.906,104.03,0.832,5,0.751,-3.004,spotify:track:2b1BwUGGyKq0CoJd8G1B6M,Harder,Jax Jones,0
+0.703,111.943,0.748,1,0.625,-6.047,spotify:track:2jZIfoe48eUeOEnP9Ho4h2,No One Compares To You,Jack & Jack,0
+0.733,102.999,0.786,11,0.786,-7.494,spotify:track:4UuGBDjt8gLXsANZqZxMBz,Love You Better,John De Sohn,0
+0.584,117.817,0.607,11,0.374,-6.605,spotify:track:3TKpJrY9q49Mj1JOsM9zGL,Family,The Chainsmokers,0
+0.652,114.033,0.897,7,0.475,-4.481,spotify:track:1wsLHgXJ4SKIfd5ePSX1hD,Polaroid,Jonas Blue,0
+0.846,115.999,0.631,5,0.602,-5.547,spotify:track:4NmE2ytXI8S2svTRSmEdpO,Small Talk,Katy Perry,0
+0.693,75.014,0.604,11,0.651,-5.279,spotify:track:6Yx181fZzA0YE2EkUsYruq,Big Plans,Why Don't We,0
+0.67,125.944,0.743,10,0.571,-4.993,spotify:track:78nplE9X2ZGvQh3TKgvldE,Rewrite The Stars (with James Arthur & Anne-Marie),James Arthur,0
+0.591,104.003,0.702,7,0.501,-5.59,spotify:track:05CwHjIk71RXVU40boRMnR,Call You Mine,The Chainsmokers,0
+0.795,94.01,0.496,0,0.874,-5.883,spotify:track:0DiDStADDVh3SvAsoJAFMk,Only Human,Jonas Brothers,0
+0.668,95.927,0.892,5,0.478,-3.001,spotify:track:07Oz5StQ7GRoygNLaXs2pd,Good as Hell (feat. Ariana Grande) - Remix,Lizzo,0
+0.761,118.004,0.695,5,0.69,-4.048,spotify:track:3oiLlbBynuErymca4Dwp5H,Get To Know You,Samantha Harvey,0
+0.661,114.098,0.758,7,0.387,-5.299,spotify:track:3sHuIjfAzluc6S9cXoqfqC,Let It Be Me,Steve Aoki,0
+0.394,151.912,0.718,7,0.247,-6.336,spotify:track:1i3z3GR1JtLswOSJNO0BQw,"You Can't Stop The Girl (From Disney's ""Maleficent: Mistress of Evil"")",Bebe Rexha,0
+0.842,137.958,0.734,1,0.952,-5.065,spotify:track:4y3OI86AEP6PQoDE6olYhO,Sucker,Jonas Brothers,0
+0.726,104.976,0.781,0,0.579,-4.276,spotify:track:1mKNyZCNDueEASgBgZuLdA,Ooh Girl (feat. A Boogie Wit da Hoodie),Kris Kross Amsterdam,0
+0.503,116.524,0.754,7,0.597,-3.634,spotify:track:0EdgK7ASb4kfRkW8pVMN02,2 Hearts (feat. Gia Koka),Sam Feldt,0
+0.759,116.947,0.54,9,0.75,-6.039,spotify:track:0TK2YIli7K1leLovkQiNik,Señorita,Shawn Mendes,0
+0.501,109.891,0.405,1,0.446,-5.679,spotify:track:7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Lewis Capaldi,1
+0.558,129.174,0.364,5,0.252,-8.663,spotify:track:034KyQEk7IhbLtniVhBErj,17,Pink Sweat$,1
+0.643,79.282,0.17,5,0.337,-9.061,spotify:track:0Peh9vSnImMMTznniOJcsj,Loved by You,KIRBY,1
+0.498,124.001,0.104,1,0.205,-14.08,spotify:track:14JzyD6FlBD5z0wV5P07YI,when the party's over,Billie Eilish,1
+0.483,171.649,0.361,0,0.307,-7.889,spotify:track:2ZTYlnhhV1UAReg7wIGolx,To Die For,Sam Smith,1
+0.577,79.009,0.661,11,0.737,-4.962,spotify:track:1QyxXnQXlGqG28syVg3LyP,Finally Feel Good,James Arthur,1
+0.504,87.221,0.498,0,0.196,-8.24,spotify:track:4BGZF4oLbTL0pWm7C18pbv,Scared To Live,The Weeknd,1
+0.418,141.755,0.39,7,0.242,-9.522,spotify:track:2yrJ1kqdy20f2Pe5z6CM6s,1949,Jonah Mutono,1
+0.38,73.537,0.219,4,0.0517,-13.273,spotify:track:73SpzrcaHk0RQPFP73vqVR,No Time To Die,Billie Eilish,1
+0.435,128.532,0.155,1,0.0935,-8.948,spotify:track:4L2K7JKseFCBoHMZEAszW0,Jealous,Labrinth,1
+0.492,125.058,0.173,11,0.336,-11.24,spotify:track:6Pg3lOfFt49w6mNmmvzJB2,Body Aint Me,Pink Sweat$,1
+0.741,91.99,0.598,5,0.629,-7.496,spotify:track:5BfvUt5ztFuAyhWjgWzjr1,Pirouette,Chiiild,1
+0.657,73.967,0.436,10,0.24,-5.758,spotify:track:67NvBpt8ZEJKGs9MCIUy4x,Velvet,KIRBY,1
+0.703,99.807,0.455,4,0.566,-6.282,spotify:track:0xq5FYiJOmcPhILwysq2RO,Home,Muna,1
+0.416,77.105,0.38,7,0.504,-12.555,spotify:track:75LiaCB0Kt9sqJBxKDj2uD,white nails,prettyboyshav,1
+0.576,96.964,0.673,7,0.463,-6.844,spotify:track:5wFVutMQbOrauVSVmQH8Jl,Glide,Lxandra,1
+0.461,144.739,0.29,1,0.412,-7.999,spotify:track:60wa5J6SkXtBXHySQ3PoNB,The Love You Left Behind,Michael Schulte,1
+0.511,101.732,0.333,11,0.265,-8.176,spotify:track:6WrHKidpEVkYKX3vSQhBgL,LOVE IN THE DARK,Jessie Reyez,1
+0.565,81.657,0.242,2,0.237,-8.367,spotify:track:5ug4vqGZ3eisGhY1IsziNX,Best Part of Me (feat. YEBBA),Ed Sheeran,1
+0.696,91.997,0.65,4,0.587,-5.712,spotify:track:4NFD9ea0uH0MtoC30yNYE1,West Coast Love,Emotional Oranges,1
+0.536,143.89,0.317,6,0.319,-8.752,spotify:track:2wHA4yJKT8TJhGz20QxUqX,Tell Me That You Love Me,James Smith,1
+0.536,109.951,0.457,1,0.185,-9.05,spotify:track:6EZxVoISB1kefkrVREy5Ly,Amethyst,Deverano,1
+0.567,110.011,0.267,4,0.0592,-6.502,spotify:track:1ZMiCix7XSAbfAJlEZWMCp,Falling,Harry Styles,1
+0.507,77.765,0.204,0,0.343,-11.575,spotify:track:6WU74yOM3Evu2hoyy2g5g5,Half A Man,Dean Lewis,1
+0.396,137.149,0.0695,7,0.0391,-20.337,spotify:track:2aFC6EAvz25EC0osKd8PK0,Berlin,RY X,1
+0.577,175.984,0.459,8,0.27,-8.089,spotify:track:6YbnTi3V0PFdvf7J6Ol9Cw,Wasteland,Maria Lynn,1
+0.608,67.528,0.384,5,0.594,-10.209,spotify:track:71OSUpU3wOrPxx6ydknSRM,Nothing Matters Then We Die,Trove,1
+0.512,85.82,0.184,9,0.37,-8.812,spotify:track:4CYBfRX3oEPni9Elqm8Bnt,Goodbyes,Jorja Smith,1
+0.784,105.034,0.278,6,0.741,-10.745,spotify:track:1LdS1ULS9e18oW3M2C1MUj,"always, i'll care",Jeremy Zucker,1
+0.678,81.997,0.491,5,0.519,-5.815,spotify:track:1VbhR6D6zUoSTBzvnRonXO,I'm Not The Only One,Sam Smith,1
